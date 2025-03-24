@@ -10,7 +10,7 @@
 
 ```bash
 git clone https://github.com/Shumer0707/test_work_mart.git
-cd comments-api
+cd test_work_mart
 composer install
 cp .env.example .env
 php artisan key:generate
